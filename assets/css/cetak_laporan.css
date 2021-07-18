@@ -1,0 +1,77 @@
+/* Print */
+@media print {
+	.no_print
+	{
+		display:none!important;
+		width:0px!important;
+		max-width:0px!important;
+		padding:0px!important;
+		margin:0px!important;
+	}
+	
+	.page-title-heading,
+	.app-wrapper-footer 
+	{
+		display:none!important;
+	}
+	#printarea
+	{
+		border:1px solid redx!important;
+		margin:0px!important;
+		padding:0px!important;
+		margin-top:-115px!important;
+		margin-left:-18px!important;
+		width:105%;
+		height:100%;
+	}
+	html, body {
+		margin:0px!important;
+		padding:0px!important;
+		box-shadow:none!important;
+	}
+	.card,
+	.tab-content, 
+	.card-body,
+	.tab-pane 
+	{
+		border:none!important;
+		margin:0px!important;
+		padding:0px!important;
+		box-shadow:none!important;
+		
+	}
+	.app-main .app-main__outer {
+		padding:0px;
+	}
+	
+	@page rotated { 
+		size : portrait 
+	}
+	@page {
+	  size: A4;
+	  margin: 0;
+	  padding:0px;
+	}
+	.print_keterangan {
+		width:200px!important
+	}
+	@page :footer { 
+        display: none;
+    } 
+    @page :header { 
+        display: none;
+    } 
+}
+.total_cetak {
+	text-align:right;
+	text-transform:uppercase;
+	font-weight:600;
+	font-size: 0.84rem;
+	background-color:#fff;
+}
+.nominal_cetak {
+	font-weight:600;
+	font-size: 0.84rem;
+	background-color:#fff;
+	
+}

@@ -1,0 +1,279 @@
+body {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif!important;
+}
+.login {
+	min-height:100%;
+	position:absolute;
+	width:100%;
+}
+.login img {
+	display: block;
+	margin:50px auto 40px auto;
+	width:400px;
+}
+.form_login {
+	width:800px;
+	display:block;
+	margin:30px auto;
+}
+.form_register {
+	width:500px;
+	display:block;
+	margin:30px auto;
+}
+
+/* SATU */
+.satu {
+	background:#9b111e;
+	color:#fff;
+	display:inline-block;
+	width:450px;
+	padding:15px 15px;
+	border-radius: 10px 0px 0px 10px;
+}
+.satu h3 {
+	margin:0px;
+}
+.satu p {
+	text-align:justify;
+	margin-top:20px;
+}
+
+/* DUA */
+.dua {
+	background:#ffc107;
+	color:#9b111e;
+	position: absolute;
+	width:350px;
+	padding:18.5px 15px;
+	border-radius: 0px 10px 10px 0px;
+}
+.dua h3 {
+	font-size:20px;
+	font-weight:600;
+	margin:0px 0px 20px 0px;
+}
+.dua input {
+	font-weight:normal;
+}
+
+/* TIGA */
+.tiga {
+	display:block;
+	margin:30px auto;
+	border-radius:10px;
+	background:#9b111e;
+	padding:15px;
+}
+.tiga h3 {
+	margin:0px;
+}
+.tiga p {
+	text-align:justify;
+	margin-top:10px;
+	font-weight:600;
+	color:#fff;
+}
+.tiga.mobile_show {
+	display:none;
+}
+
+/* EMPAT */
+.empat {	
+	display:block;
+	border-radius:10px;
+	background:#fff;
+	color:#444;
+	padding:15px;
+}
+.empat h3 {
+	font-size:20px;
+	font-weight:600;
+	margin:0px 0px 20px 0px;
+}
+.empat p {
+	margin-top:18px;
+}
+
+/* INPUT FORM & BUTTON */
+.form_login_register {
+	margin-top:10px!important;
+}
+.input-group-addon {
+    background-color: #9b111e!important;
+	color:#fff!important;
+	border-color:transparent!important;
+}
+.input-group-addon.username {	
+	border-radius: 5px 0px 0px 0px!important;
+}
+.input-group-addon.password, .input-group-addon.produk {	
+	border-radius: 0px 0px 0px 5px!important;
+	border-top:none!important;
+}
+.input-group-addon.email{	
+	border-radius: 5px 0px 0px 0px!important;
+}
+.input-group-addon.whatsapp{	
+	border-radius: 0px!important;
+	border-top:none!important;
+}
+.input-group-addon.password i{	
+	padding:0px 2.5px;
+}
+.input-group-addon.email i, .input-group-addon.whatsapp i {	
+	padding:0px 0.5px;
+}
+.input-group-addon.password i{	
+	padding:0px;
+}
+input.form-control.username {
+	border-radius: 0px 5px 0px 0px!important;	
+	font-size:12.5px;
+	padding:18px 10px;
+	letter-spacing: 0.5px;
+}
+input.form-control.password, input.form-control.produk {
+	border-top:none;
+	border-radius: 0px 0px 5px 0px!important;	
+	font-size:12.5px;
+	padding:18px 10px;
+	letter-spacing: 0.5px;
+}
+input.form-control.whatsapp {
+	border-radius: 0px!important;	
+	font-size:12.5px;
+	padding:18px 10px;
+	letter-spacing: 0.5px;
+	border-top:none;
+}
+.form-control:focus  {
+	border-color:#d2d6de!important;
+}
+.btn:focus {
+    outline: none!important;
+    outline-offset: none!important;
+}
+.btn_login {
+	background:#9b111e;
+	color:#fff;
+	border-radius:5px!important;
+	width:100%;
+	margin-top:18px;
+	font-weight:600!important;
+}
+.btn_login:hover {
+	background:#9b111e;
+	color:#fff!important;
+}
+.btn_login:active,.btn_login:focus {
+	color:#fff!important;
+}
+.btn_register {
+	background:#fff;
+	color:#444!important;
+	border-radius:5px!important;
+	font-weight:500!important;
+	font-size:13px!important;
+	letter-spacing: 0.3px;
+}
+.btn_register:hover {
+	background:#fff;
+	color:#444!important;
+}
+.btn_register:active,.btn_register:focus {
+	color:#444!important;
+}
+
+
+
+
+.close:focus, .close i:focus {
+	outline: none!important;
+}
+.modal-body.register {
+	background : #ffc107;
+	color:#fff;
+}
+.modal-body.register h4 {
+	font-weight:600;
+}
+.modal-body.register i {
+	margin-right:5px;
+}
+.modal-body.register  {
+	text-align:justify;
+}
+.modal-body.alert {
+	padding:30px 20px;
+}
+.modal_close,.modal_close:hover,.modal_focus,.modal_focus-within,.modal_active,.modal_visited,.modal_close i {
+	color:#fff;
+	float:right;
+	display:inline-block;
+	font-size:16px;
+	margin-top:-5px;
+}
+#alert {
+	position: absolute;
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+}
+.alert {
+	background: #9b111e;
+	color:#fff;
+}
+.modal-dialog.alert_konten {
+    width: 800px;
+	margin: 50px auto 0px auto;
+}
+/* Mobile */
+@media (max-width: 1024px) {
+	.login {
+		background: #ECEDEF!important; 
+	}
+	.login img {
+		max-width:250px;
+		margin:30px auto 0px auto;
+	}
+	.form_login,.form_register {
+		border:0px solid #000;
+		width:100%;
+		padding:0px 15px;
+	}
+	.satu, .dua, .tiga, .empat {
+		display:block;
+		position: relative;
+		width:100%;
+		border-radius:5px;
+		padding:15px;
+		margin-bottom:20px;
+	}
+	.tiga {
+		margin-top:0px;
+		margin-bottom:40px;
+	}
+	.tiga h3{
+		text-align:center;
+		line-height:30px;
+	}
+	.tiga.mobile_show {
+		display:block;
+	}
+	.modal.fade {
+		padding-right:0px!important;
+	}
+	#alert {
+		left: 15px;
+		right: 15px;
+		top:350px;
+		z-index:10;
+	}
+	.modal-dialog.alert_konten {
+		width: 100%;
+	}
+	
+}

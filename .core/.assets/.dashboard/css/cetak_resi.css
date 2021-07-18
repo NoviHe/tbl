@@ -1,0 +1,313 @@
+/* Print */
+@media print{
+	.content-header,
+	.alert.alert-warning.ui_design.alert-dismissible,
+	.box-header.with-border,
+	.main-footer
+	{
+		display:none;
+	}
+	.skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side {
+		box-shadow: none!important;
+	}	
+	.box.box-warning.profil_data {
+		border-top-color: #fff!important;
+		border-left: 0px solid #fff;
+		border-right: 0px solid #fff;
+		box-shadow: none!important;
+	}
+	header nav, footer {
+	display: none!important;
+	}
+	body {
+		margin: 0px!important;
+		background:#fff!important;
+		margin-top:0 !important;
+		margin:none!important;
+		margin:0!important;
+	}
+	html {
+		margin: 0px!important;
+		background:#fff!important;
+		margin:none!important;
+		margin:0!important;
+	}
+	@page {
+		background:#fff!important;
+		size: A4 portrait;
+		margin-left: 0px;
+		margin-right: 0px;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		margin:none;
+	}
+	@page rotated { size : portrait }
+	.media_print {
+		display:block;
+		margin:0px!important;
+		padding:0px!important;
+	}
+	@page :footer { 
+        display: none;
+    } 
+    @page :header { 
+        display: none;
+    } 
+	.first_page_print {
+		display:block;
+		margin-top:-50px;
+	}
+	.last_page_print {
+		display:block;
+		margin-bottom:-30px;
+	}
+	.satu {
+		margin:-8px -5px!important;
+	}
+	.konten_cetak {
+		display:inline-block!important;
+		max-width:50%!important;
+		border:1px solid yellow!important;
+	}
+	.konten_cetak.konten_cetak_2 {
+		max-width:50%!important;
+		margin-left:-4px!important;
+		padding:11.5px 15px!important;
+	}
+	.konten_cetak.konten_cetak_2.XX-1 {
+		padding:11px 15px!important;
+	}
+	.konten_cetak.konten_cetak_2.XX-2 {
+		padding:11.55px 15px!important;
+	}
+	.img_logo {
+		width:65px!important;
+		margin-right:20px!important;
+	}
+	.img_qrcode {
+		width:65px!important;
+		margin-right:3px!important;
+	}
+	.judul_cetak h2 {
+		font-size:12px!important;
+	}
+	.judul_cetak p {
+		font-size:9px!important;
+		line-height:15px!important;
+	}
+	.cetak_p {
+		font-size:10px!important;
+	}
+	.mobile_btm {
+		display:block!important;
+		margin-bottom:0px!important;
+	}
+	.A, .B, .C {
+		font-size:9px!important;
+		font-weight:500!important;
+		line-height:5px!important;
+		border:1px solid #000!important;
+		margin:0px!important;
+		padding:0px!important;
+	}
+	.garis {
+		margin:15px 0px 5px -15px!important;
+		width:109%!important;
+		border:0.5px solid #000!important;
+	}
+	.ttd_penerima {
+		font-size:10px!important;
+		line-height:10px!important;
+		margin-top:0px!important;
+	}
+	.ttd {
+		font-size:10px!important;
+		line-height:0px!important;
+		margin-bottom:5px;
+	}
+	.cetak_tanda_tangan {
+		height:75px;
+	}
+	.garis_dashed {
+		margin-left:-50px!important;
+		margin-right:-50px!important;
+	}
+	table.data_inti_cetak_resi tr>td{
+		font-weight:500!important;
+		line-height:18px!important;
+		font-size:10px!important;
+	}
+	.nomor_empat.font_bold {
+		font-weight:bold!important;
+	}
+	.cetak_alamat_keterangan {
+		height:50px!important;
+		line-height:15px!important;
+	}
+	.alamat_keterangan_cetak_td {
+		padding-top:0px!important;
+	}
+	.alamat_cetak {
+		padding-top:2px!important;
+	}
+	td.space_atas, td.space_bawah  {
+		height:10px!important;
+	}
+	td.nomor_satu, td.nomor_empat  {
+		padding-left:12px!important;
+	}
+	.tanggal_ket {
+		padding:0px!important;
+	}
+}
+
+/* Desktop */
+table.data_inti_cetak_resi {
+	border:2px solid #000;
+	margin-top:5px;
+	margin-bottom:5px;
+	width:100%;
+}
+table.data_inti_cetak_resi tr>td{
+	font-weight:600;
+	line-height:30px;
+}
+td.space_atas {
+	border-right:2px solid #000;
+	height:18px;
+}
+td.space_bawah {
+	border-right:2px solid #000;
+	height:18px;
+}
+td.nomor_satu {
+	width:20%;
+	padding-left:20px;
+}
+td.nomor_dua {
+	width:1%;
+}
+td.nomor_tiga {
+	width:29%;	
+}
+td.nomor_empat {
+	width:20%;
+	border-left:2px solid #000;
+	padding-left:20px;
+}
+td.nomor_lima {
+	width:1%;
+}
+td.nomor_enam {
+	width:29%;
+}
+
+
+
+
+.satu {
+	border:3px solid #9b111e;
+	padding:15px;
+}
+.img_logo {
+	width:100px;
+	height:auto;
+	display:inline-block;
+	margin-right:50px;
+}
+.img_qrcode {
+	width:100px;
+	height:auto;
+	display:inline-block;
+	margin-left:20px;
+}
+.judul_cetak {
+	display:inline-block;
+	vertical-align:top;
+	border:0px solid #000;
+}
+.judul_cetak h2 {
+	color:#9b111e;
+	font-weight:700;
+	font-size:25px;
+	margin:0px;
+	padding:0px;
+}
+.judul_cetak p {
+	color:#333;
+	font-weight:500;
+	font-size:14px;
+	line-height:23px;
+	margin-top:5px;
+}
+.konten_cetak {
+	border:2px solid #000;
+	margin:20px 0px 0px 0px;
+	padding:10px 15px;
+	display:inline-block;
+}
+.A, .B, .C {
+	display:inline-block;
+	font-size:16px;
+	font-weight:600;
+	line-height:25px;
+}
+.A {
+	width:150px;
+}
+.B {
+	width:10px;
+}
+.C {
+	
+}
+.garis {
+	border:1px solid #000; 
+	display:block;
+	margin:10px 0px 10px -15px;
+	padding:0px;
+	width:106%;
+}
+.ttd_penerima {
+	font-size:16px;
+	font-weight:600;
+	line-height:25px;	
+}
+.ttd {
+	display:block;
+	margin-top:48px;
+	font-size:16px;
+	font-weight:600;
+	line-height:25px;
+}
+.garis_dashed {
+	border:1px dashed #eee;
+	display:block;
+	margin:20px -15px;
+}
+
+
+/* Mobile */
+@media (max-width: 1024px) {
+	.mobile_btm {
+		display:block;
+		margin-bottom:130px;
+	}
+	.konten_cetak {
+		display:block;
+		width:100%!important;
+		margin:5px 0px 0px 0px!important;
+	}
+	.garis {
+		width:108%;
+	}
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,53 @@
+[02-Mar-2021 11:23:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(' in /home/btsr5823/public_html/admin/laporan-absensi-export.php on line 21
+[02-Mar-2021 11:23:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(' in /home/btsr5823/public_html/admin/laporan-absensi-export.php on line 21
+[02-Mar-2021 11:23:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(' in /home/btsr5823/public_html/admin/laporan-absensi-export.php on line 21
+[02-Mar-2021 11:23:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(' in /home/btsr5823/public_html/admin/laporan-absensi-export.php on line 21
+[02-Mar-2021 11:23:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(' in /home/btsr5823/public_html/admin/laporan-absensi-export.php on line 21
+[03-Mar-2021 22:27:51 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 65
+[03-Mar-2021 22:27:51 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 90
+[03-Mar-2021 22:34:07 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 65
+[03-Mar-2021 22:34:07 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 90
+[03-Mar-2021 22:37:31 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 65
+[03-Mar-2021 22:37:31 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 90
+[04-Mar-2021 15:25:27 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 65
+[04-Mar-2021 15:25:27 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 90
+[05-Mar-2021 10:55:12 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 65
+[05-Mar-2021 10:55:12 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 90
+[05-Mar-2021 10:55:28 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 65
+[05-Mar-2021 10:55:28 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 90
+[06-Mar-2021 00:04:08 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 65
+[06-Mar-2021 00:04:08 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 90
+[06-Mar-2021 00:04:25 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 65
+[06-Mar-2021 00:04:25 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 90
+[06-Mar-2021 00:05:29 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 65
+[06-Mar-2021 00:05:29 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 90
+[06-Mar-2021 13:02:53 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 65
+[06-Mar-2021 13:02:53 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 90
+[07-Mar-2021 06:06:40 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 65
+[07-Mar-2021 06:06:40 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 90
+[07-Mar-2021 06:12:34 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 65
+[07-Mar-2021 06:12:34 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 90
+[08-Mar-2021 12:46:32 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 65
+[08-Mar-2021 12:46:32 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 90
+[09-Mar-2021 22:06:07 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 65
+[09-Mar-2021 22:06:07 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 90
+[09-Mar-2021 22:10:36 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 65
+[09-Mar-2021 22:10:36 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 90
+[10-Mar-2021 22:19:37 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 65
+[10-Mar-2021 22:19:37 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 90
+[13-Mar-2021 00:51:24 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 65
+[13-Mar-2021 00:51:24 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 90
+[13-Mar-2021 00:52:30 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 65
+[13-Mar-2021 00:52:30 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 90
+[13-Mar-2021 00:54:41 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 65
+[13-Mar-2021 00:54:41 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 90
+[15-Mar-2021 18:33:50 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 65
+[15-Mar-2021 18:33:50 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 90
+[15-Mar-2021 18:35:49 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 65
+[15-Mar-2021 18:35:49 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 90
+[19-Mar-2021 18:40:39 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 65
+[19-Mar-2021 18:40:39 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 90
+[19-Mar-2021 18:41:48 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 65
+[19-Mar-2021 18:41:48 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 90
+[22-Mar-2021 16:26:53 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 65
+[22-Mar-2021 16:26:53 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/btsr5823/public_html/admin/assets/scripts/data/detail_resi.php on line 90

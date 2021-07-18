@@ -1,0 +1,305 @@
+.input-group .form-control.tanggal:focus {
+	outline: -webkit-focus-ring-color auto 0px!important;
+}
+.capitalize {
+	text-transform:capitalize!important;
+}
+.small-box {
+	border-radius:5px!important;
+	background:#6777ef; 
+	color:#fff!important;
+}
+.small-box h1 {
+	margin:0px;
+	padding:0px;
+	text-transform:uppercase;
+	font-weight:bold;
+	font-size:16px;
+	padding-bottom:10px;
+	border-bottom:1px dashed #fff;
+}
+.small-box p {
+	margin:0px!important;
+	margin-top:30px!important;
+	padding:0px!important;
+	margin-top:10px;
+	font-size:14px!important;
+	font-weight:600;
+	text-transform:uppercase;
+	line-height:25px;
+}
+.small-box p span {
+	font-weight:bold;
+	margin-right:10px;
+	font-size:18px;
+}
+.small-box .icon {
+	top:40px!important;
+}
+.small-box>.small-box-footer {
+	text-transform:uppercase;
+}
+.icon.laporan_pricetag {
+	margin-top:-40px;
+}
+.edit {
+	padding-left:9px!important;
+}
+.delete {
+	padding-left:9px!important;
+}
+.edit.detail {
+	margin-right:5px;
+	background:#f39c12;
+	padding-left:8px!important;
+}
+.edit.detail:active,.edit.detail:focus,.edit.detail:hover {
+	background:#D2840F;
+}
+.col-lg-3.detail {
+	margin-top:10px;
+}
+.table-container.desktop_overflow_none {
+	overflow:hidden;
+}
+
+/* Tabel Resi */
+td i {
+	margin-right:5px;
+}
+td.opsi {
+	width:95px;
+	border-left:1px solid #eee!important;
+}
+td.nomor {
+	width:10px;
+}
+td.no_resi {
+	text-align:left!important;
+	width:95px;
+}
+td.username_agen {
+	text-align:left!important;
+	text-transform:uppercase;
+	width:80px;
+}
+td.tanggal {
+	width:160px;
+}
+td.tanggal span.tanggal_satu {
+	display:inline-block;
+	max-width:100%;
+	float:left;
+}
+td.tanggal span.tanggal_dua {
+	display:inline-block;
+	max-width:100%;
+	float:right;
+}
+td.kota_agen {
+	text-transform:uppercase;
+	width:80px;
+}
+td.tujuan_pengiriman {
+	text-align:left!important;
+	text-transform:uppercase;
+	width:100px;
+}
+td.biaya_pengiriman {
+	text-align:left!important;
+	width:100px;
+}
+td.berat_kiriman {
+	text-align:left!important;
+	width:70px;
+}
+td.total_biaya_pengiriman {
+	text-align:left!important;
+	width:100px;
+	border-right:1px solid #eee!important;
+}
+/* End Tabel Resi */
+
+/* Tabel Laporan */
+td.laporan_nomor {
+	width:10px;
+}
+td.laporan_noresi {
+	width:100px;
+}
+td.laporan_username {
+	width:300px;	
+	text-transform:uppercase;
+	text-align:left!important;
+	padding-left:10px;
+}
+td.laporan_username span {
+	text-transform:none;
+	float:right;
+	padding-right:5px;
+}
+td.laporan_tanggal {
+	width:180px;	
+}
+td.laporan_jumlah {
+	width:100px;	
+	text-align:left!important;
+}
+td.laporan_kategori {
+	width:40px;	
+	text-transform:uppercase;
+}
+td.laporan_opsi {
+	width:95px;	
+}
+/* Pengeluaran */
+td.laporan_username_pengeluaran {
+	width:270px;	
+	text-transform:uppercase;
+	text-align:left!important;
+	padding-left:10px;
+}
+td.laporan_username_pengeluaran span {
+	text-transform:none;
+	float:right;
+	padding-right:5px;
+}
+td.laporan_kategori_pengeluaran {
+	width:160px;	
+	text-align:left!important;
+}
+
+/* Cetak */
+td.laporan_noresi_cetak {
+	width:100px;
+}
+td.laporan_username_cetak {
+	width:250px;	
+	text-transform:uppercase;
+	text-align:left!important;
+	padding-left:10px;
+}
+td.laporan_username_cetak span {
+	text-transform:none;
+	float:right;
+	padding-right:5px;
+}
+td.laporan_tanggal_cetak {
+	width:200px;	
+}
+td.laporan_kategori_cetak {
+	width:100px;
+	text-transform:uppercase;
+}
+td.laporan_jumlah_cetak {
+	width:100px;	
+	text-align:left!important;	
+	padding-left:10px!important;
+}
+td.total {
+	font-weight:bold;
+	background:#f4f4f4;
+	border-left: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    border-top: 1px solid #eee;
+}
+td.nominal {
+	font-weight:bold;
+	text-align:left!important;	
+	padding-left:10px!important;
+	background:#f4f4f4;
+	border-left: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    border-top: 1px solid #eee;
+}
+/* End Tabel Laporan */
+	
+		
+.label_resi {
+	text-transform:uppercase;
+}
+.keterangan_biaya {
+	display: block;
+	height: 225px;
+	background: #6777ef;
+	border-radius: 5px;
+	color: #fff;
+	font-weight: 700;
+	text-align: center;
+	font-size: 18px;
+	float:right;
+	margin-right:14px;
+	width:94%;
+}
+.kg {
+	display: block;
+	padding-top: 12px;
+	text-transform: uppercase;
+	font-size: 30px;
+}
+.final_harga {
+	border: none;
+	background: none;
+	width: 100%;
+	font-size: 40px;
+	padding:23px 0px;
+	text-indent:31%;
+}
+.final_harga:active,.final_harga:focus,.final_harga:hover {
+	border: none!important;
+	outline: -webkit-focus-ring-color auto 0px;
+}
+.data_username_agen {
+	display: block;
+	text-transform: uppercase;
+	font-size: 15px;
+}
+.mobile_agen {
+	display:block;
+	padding:0px!important;
+}
+.form-control[readonly] {
+	cursor:no-dropx;
+}
+.form-control:focus[readonly] {
+	border-color: #d2d6de!important;
+}
+@media (max-width: 1024px) {
+	.small-box {
+		margin:0px 18px;
+	}
+	.small-box p {
+		text-align:center;
+	}
+	.small-box.mobile_0 {
+		margin:0px 0px;
+	}
+	.table-container.desktop_overflow_none {
+		overflow:auto!important;
+	}
+	.edit.detail {
+		margin-right:0px;
+	}
+	.menu_data.pull-right {
+		float:none!important;
+		width: 150px;
+		display:block;
+		margin:0px auto;
+	}
+	.form-group.cari_data {
+		padding:15px 5px 15px 15px;
+	}
+	.form-group.cari_data .col-md-3:nth-child(2) {
+		margin-bottom:20px;
+		padding-left:5px!important;
+	}
+	.mobile_hilang {
+		display:none;
+	}
+	.keterangan_biaya {
+		display:none;
+	}
+	.mobile_agen {
+		margin-top:0%!important;
+	}
+}

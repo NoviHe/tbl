@@ -1,0 +1,39 @@
+/*------------------------------------------------------------------------------
+ * 2021 CSS Solusi Digital ID (solusidigitalid.com) 
+ *----------------------------------------------------------------------------*/
+#to_top {
+	padding:0px 5px;
+}
+#to_top i {
+	font-size:10px;
+	margin-left:5px;
+}
+.footer_copyright {
+	cursor:auto;
+	font-size:10.5px;
+	text-transform:uppercase;
+	letter-spacing:0.5px;
+}
+.footer_copyright:hover {
+	opacity: .7;
+}
+.footer-dots .dots-separator {
+    height: 20px;
+}
+.footer_version {
+	cursor:auto;
+	font-size:10.5px;
+	text-transform:uppercase;
+}
+.footer_version_detail {
+	font-size:10px!important;
+	text-transform:uppercase;
+	font-weight:bold;
+	
+}
+/* =============================================================================================================================================================== Mobile */
+@media (max-width: 1024px) {
+	.footer_copyright span {
+		display:none;
+	}
+}

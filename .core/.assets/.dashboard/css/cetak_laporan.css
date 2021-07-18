@@ -1,0 +1,175 @@
+/* Print */
+@media print{
+	.content-header,
+	.alert.alert-warning.ui_design.alert-dismissible,
+	.box-header.with-border,
+	.main-footer,
+	.no_print,
+	.no_print_x
+	{
+		display:none!important;
+		box-shadow: none!important;
+		border-top-color: #fff!important;
+	}
+	body.skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side .box-body {
+		box-shadow: none!important;
+	}	
+	.box {
+		box-shadow: none!important;
+	}
+	.box-warning {
+		border-top-color: #fff!important;
+	}
+	.profil_data {
+		border-top-color: #fff!important;
+		border-left: 0px solid #fff!important;
+		border-right: 0px solid #fff!important;
+		border:none!important;
+		box-shadow: none!important;
+	}
+	.box.box-warning.profil_data {
+		border-top-color: #fff!important;
+		border-left: 0px solid #fff!important;
+		border-right: 0px solid #fff!important;
+		border:none!important;
+		box-shadow: none!important;
+	}
+	.box-header.with-border {
+		border-bottom: none!important;
+	}
+	.box-body {
+		background:#fff!important;
+		box-shadow: none!important;
+		padding:0px!important;
+	}
+	.modal.fade {
+		display:none;		
+	}
+	.wrapper {
+		background:#fff!important;
+		box-shadow: none!important;
+		border:none!important;
+	}
+	.skin-blue.sidebar-mini.fixed.sidebar-mini-expand-feature {
+		box-shadow: none!important;
+	}
+	@page {
+		margin: 1cm 0cm!important;
+		background:#fff!important;
+		box-shadow: none!important;
+	}
+	@page rotated { size : portrait }
+	
+	.table-bordered {
+		border:none!important;
+		box-shadow: none!important;
+		background:#fff!important;
+	}
+	.media_print {
+		display:block!important;
+		margin:0px;
+		padding:0px;
+		box-shadow: none!important;
+		background:#fff!important;
+	}
+	.print_notif {
+		margin-top:-20px!important;
+		margin-bottom:20px!important;
+	}
+	form.form-horizontal.cetak_form {
+		display:none!important;
+	}
+	table {
+		margin:0px!important;
+		padding:0px!important;
+	}
+	.table i {
+		display:none!important;
+	}
+	.table-bordered>tbody>tr>td {
+		border:1px solid #eee!important;
+		font-size:12px!important;
+	}
+	.total_print,.total_print_price {
+		background:#f4f4f4!important; 
+		font-weight:bold!important; 
+		font-size:14px!important;
+		color:#000!important;
+		border:1px solid #000!important;
+		text-align:center!important;
+	}
+	.total_print_price {
+		text-align:left!important;
+	}
+	
+	td.username_agen {
+		text-align:center!important;
+		text-transform:uppercase;
+		width:80px;
+	}
+	td.tujuan_pengiriman {
+		text-align:left!important;
+		text-transform:uppercase;
+		width:100px;
+	}
+	td.berat_kiriman {
+		text-align:center!important;
+		width:50px;
+	}
+	.no_print_table, .no_print_table_dua {
+		display:none!important;
+	}
+	.cetak_data_tidak_ditemukan {
+		margin-top:10px!important;
+	}
+}
+
+/* Desktop */
+.table-bordered>tbody>tr>td.total_print,.table-bordered>tbody>tr>td.total_print_price {
+	background:#fff!important; 
+	color:#fff;
+	font-weight:normal; 
+	text-align:left;
+	border:1px solid #fff;
+	font-size:1px;
+}
+.no_print_x {
+	background:#fff; 
+}
+.table-bordered>tbody>tr>td.no_print_table {
+	font-weight:bold; 
+	text-transform:uppercase; 
+	background:#f4f4f4; 
+	border:none;
+	border-left:1px solid #eee;
+	border-bottom:1px solid #eee;
+	border-top:1px solid #eee;
+	color:#000;
+	font-size:12.5px;
+}
+.table-bordered>tbody>tr>td.no_print_table_dua {
+	font-weight:bold; 
+	background:#f4f4f4; 
+	border:none;
+	font-size:12.5px;
+	border-top:1px solid #eee;
+	border-left:0px solid #eee;
+	border-right:1px solid #eee;
+	border-bottom:1px solid #eee;
+	text-align:left;
+	color:#000;
+}
+/* Mobile */
+@media (max-width: 1024px) {
+	
+}
+
+
+
+
+
+
+
+
+
+

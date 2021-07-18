@@ -1,0 +1,1 @@
+<script>document.location.href="laporan-pemasukan"</script>
